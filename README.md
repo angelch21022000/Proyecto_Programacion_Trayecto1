@@ -15,7 +15,7 @@ letras o numeros que esten continuos dentro del array ingresado.
 semilla según sea el peso y del array ingresado, el cual la formula seria la siguiente (n+n+n....)+(n*n*n....)
 
 
-# Proceso paara subir el Proyecto al GitHud
+# Proceso para subir el Proyecto al GitHud
 
 Para poder subir mi proyecto al GitHud tuve que crear una cuenta dentro de la misma, ya hecho esto cree un nuevo 
 repositorio el cual es el lugar en donde se subiran los cambios del proyecto en este casi el primero, ya hecho esto
