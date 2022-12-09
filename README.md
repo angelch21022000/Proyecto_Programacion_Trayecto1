@@ -21,7 +21,7 @@ Para poder subir mi proyecto al GitHud tuve que crear una cuenta dentro de la mi
 repositorio el cual es el lugar en donde se subiran los cambios del proyecto en este casi el primero, ya hecho esto
 para mejorar la comodidad de subir los cambios se descargo el aplicativo de GitHud para el escritorio, en donde 
 se ingreso con la cuenta ya creada para poder tener la mayoria de sus funciones, ya el aplicativo instalado en el 
-computador se procede a clonar el repositorio tomando la dirección http del repositorio y clonarlo con la ayuda del 
+computador se procede a clonar el repositorio tomando la dirección https del repositorio y clonarlo con la ayuda del 
 aplicativo de GitHud instalado, ya clonado el repositorio en la dirección que deseamos dentro del computador se pasa 
 el archivo del proyecto a esa carpeta que nos creo GitHud al clonar el repositorio, ya hecho estoy nos dirigimos al 
 aplicativo instalado en el computador ahí podemos visualizar el cambio que se realizen dentro de nuestro repositorio, 
